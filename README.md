@@ -17,9 +17,9 @@ Install Poper like any other gem and then run it from your terminal, specifying
 a commit:
 
 ```bash
-  gem install poper
+  gem install poper2
   cd /repo/which/commits/you/want/to/check
-  poper run HEAD~3
+  poper2 run HEAD~3
 ```
 
 Every commit between current HEAD and specified commit will be checked.

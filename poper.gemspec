@@ -18,9 +18,9 @@ Gem::Specification.new do |s|
   s.files = Dir.glob('{lib}/**/*') + %w[LICENSE README.md]
   s.test_files = `git ls-files -- {spec}/*`.split("\n")
   s.require_paths = ['lib']
-  s.executables << 'poper'
+  s.executables << 'poper2'
 
-  s.add_runtime_dependency('rugged', '~> 0.23', '>= 0.23.0')
+  s.add_runtime_dependency('rugged', '~> 1.6.3')
   s.add_runtime_dependency('thor', '~> 0.20.0')
   s.add_development_dependency('bundler', '>= 1.10')
   s.add_development_dependency('codeclimate-test-reporter', '~> 1.0')

@@ -11,8 +11,6 @@ come up for it!
 
 ## Usage
 
-![Poper demo](poper.gif "")
-
 Install Poper like any other gem and then run it from your terminal, specifying
 a commit:
 

@@ -3,4 +3,4 @@
 require 'poper2'
 require 'poper2/cli'
 
-Poper::CLI.start
+Poper2::CLI.start

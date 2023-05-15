@@ -3,7 +3,7 @@ require 'thor'
 module Poper2
   class CLI < Thor
     require 'poper2'
-    require 'poper/version'
+    require 'poper2/version'
 
     class << self
       def is_thor_reserved_word?(word, type)

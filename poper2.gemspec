@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name = 'poper2'
   s.version = Poper2::VERSION
   s.platform = Gem::Platform::RUBY
-  s.author = 'Mindaugas Mozūras'
-  s.email = 'mindaugas.mozuras@gmail.com'
-  s.homepage = 'https://github.com/mmozuras/poper'
-  s.summary = 'Poper makes sure that your git commit messages are well-formed'
+  s.author = 'Diego Bentes'
+  s.email = 'diegopbentes@gmail.com'
+  s.homepage = 'https://github.com/diegobentes/poper2'
+  s.summary = 'Poper2 makes sure that your git commit messages are well-formed'
 
   s.required_rubygems_version = '>= 1.3.6'
   s.required_ruby_version = '>= 2.3.0'

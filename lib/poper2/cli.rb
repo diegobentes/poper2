@@ -1,8 +1,8 @@
 require 'thor'
 
-module Poper
+module Poper2
   class CLI < Thor
-    require 'poper'
+    require 'poper2'
     require 'poper/version'
 
     class << self

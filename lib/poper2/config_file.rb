@@ -1,4 +1,4 @@
-module Poper
+module Poper2
   class ConfigFile
     EMPTY = {
       'disallow_single_word' => {

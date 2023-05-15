@@ -1,4 +1,4 @@
-module Poper
+module Poper2
   class Config
     def initialize(config_hash = ConfigFile.new.to_h)
       @config_hash = config_hash

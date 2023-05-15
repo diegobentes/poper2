@@ -1,6 +1,6 @@
 require 'ostruct'
 
-module Poper
+module Poper2
   class Runner
     def initialize(commit, repo_path = '.')
       @repo = Rugged::Repository.new(repo_path)

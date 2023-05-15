@@ -1,4 +1,4 @@
-module Poper
+module Poper2
   module Rule
     class Generic < Rule
       def check(message)

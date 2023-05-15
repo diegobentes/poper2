@@ -1,5 +1,5 @@
 # These are the defaults.
-# Run `cp .poper.sample.yml .poper.yml`,
+# Run `cp .poper2.sample.yml .poper2.yml`,
 # then uncomment and edit whichever rules you want to employ.
 disallow_single_word:
   enabled: true

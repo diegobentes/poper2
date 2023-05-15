@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-module Poper
+module Poper2
   module Rule
     describe SummaryCharacterLimit do
       describe '#check' do

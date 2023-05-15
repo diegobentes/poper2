@@ -1,10 +1,10 @@
 $LOAD_PATH.push File.expand_path('lib', __dir__)
 
-require 'poper/version'
+require 'poper2/version'
 
 Gem::Specification.new do |s|
-  s.name = 'poper'
-  s.version = Poper::VERSION
+  s.name = 'poper2'
+  s.version = Poper2::VERSION
   s.platform = Gem::Platform::RUBY
   s.author = 'Mindaugas Mozūras'
   s.email = 'mindaugas.mozuras@gmail.com'

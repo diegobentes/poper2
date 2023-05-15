@@ -1,10 +1,6 @@
-# Poper
+# Poper2
 
-[![Build Status](https://travis-ci.org/mmozuras/poper.png)](https://travis-ci.org/mmozuras/poper)
-+[![Coverage Status](https://img.shields.io/codeclimate/coverage/github/mmozuras/poper.svg)](https://codeclimate.com/github/mmozuras/poper)
-+[![Code Climate](https://codeclimate.com/github/mmozuras/poper.svg)](https://codeclimate.com/github/mmozuras/poper)
-[![Gem Version](https://badge.fury.io/rb/poper.png)](http://badge.fury.io/rb/poper)
-[![Dependency Status](https://gemnasium.com/mmozuras/poper.png)](https://gemnasium.com/mmozuras/poper)
+> Poper 2 is a fork of the original [poper](https://github.com/mmozuras/poper). The intention of this project is to keep it updated for any version bugs in dependencies that may arise.
 
 Poper makes sure that your git commit messages are well-formed. It's partly
 inspired by [this article][] written by [tpope][]. Rules specified there form

@@ -3,7 +3,7 @@ require 'support/coverage'
 require 'rspec'
 require 'rspec/its'
 
-require 'poper'
+require 'poper2'
 
 RSpec.configure do |config|
   config.order = :random

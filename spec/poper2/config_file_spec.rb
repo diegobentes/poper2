@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'yaml'
 
-module Poper
+module Poper2
   describe ConfigFile do
     let(:config_file) { described_class.new }
 

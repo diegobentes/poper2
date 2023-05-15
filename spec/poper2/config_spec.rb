@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-module Poper
+module Poper2
   describe Config do
     let(:config) { described_class.new(config_hash) }
     let(:config_hash) { {} }

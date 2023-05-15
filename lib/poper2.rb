@@ -1,0 +1,12 @@
+require 'rugged'
+require 'yaml'
+require 'poper2/runner'
+require 'poper2/rule/rule'
+require 'poper2/rule/capitalization'
+require 'poper2/rule/single_word'
+require 'poper2/rule/summary_character_limit'
+require 'poper2/rule/character_limit'
+require 'poper2/rule/generic'
+
+require 'poper2/config_file'
+require 'poper2/config'

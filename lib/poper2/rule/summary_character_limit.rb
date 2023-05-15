@@ -1,4 +1,4 @@
-module Poper
+module Poper2
   module Rule
     class SummaryCharacterLimit < Rule
       def check(message)

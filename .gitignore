@@ -4,4 +4,4 @@ pkg/*
 .DS_Store
 Gemfile.lock
 coverage
-.poper.yml
+.poper2.yml

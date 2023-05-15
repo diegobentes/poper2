@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'poper'
+require 'poper2'
 require 'poper/cli'
 
 Poper::CLI.start

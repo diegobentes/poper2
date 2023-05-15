@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-module Poper
+module Poper2
   describe Runner do
     describe '#run' do
       let(:runner) { Runner.new(commit, 'spec/specrepo.git') }
